@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://mikkail04.github.io/csb-fcrrh/static/css/main.202051f9.chunk.css",
-    "main.js": "https://mikkail04.github.io/csb-fcrrh/static/js/main.9dcbeccc.chunk.js",
-    "main.js.map": "https://mikkail04.github.io/csb-fcrrh/static/js/main.9dcbeccc.chunk.js.map",
+    "main.js": "https://mikkail04.github.io/csb-fcrrh/static/js/main.28310a2e.chunk.js",
+    "main.js.map": "https://mikkail04.github.io/csb-fcrrh/static/js/main.28310a2e.chunk.js.map",
     "runtime-main.js": "https://mikkail04.github.io/csb-fcrrh/static/js/runtime-main.eb2c0475.js",
     "runtime-main.js.map": "https://mikkail04.github.io/csb-fcrrh/static/js/runtime-main.eb2c0475.js.map",
     "static/js/2.eed3c6af.chunk.js": "https://mikkail04.github.io/csb-fcrrh/static/js/2.eed3c6af.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.eb2c0475.js",
     "static/js/2.eed3c6af.chunk.js",
     "static/css/main.202051f9.chunk.css",
-    "static/js/main.9dcbeccc.chunk.js"
+    "static/js/main.28310a2e.chunk.js"
   ]
 }
